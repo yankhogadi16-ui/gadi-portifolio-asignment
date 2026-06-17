@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* BODY */
+body{
+    font-family: Arial, sans-serif;
+    background:#f58e2f;
+    color:#222;
+}
+
+/* HEADER */
+.site-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 8%;
+}
+
+/* LOGO */
+.logo{
+    font-size:28px;
+    font-weight:bold;
+}
